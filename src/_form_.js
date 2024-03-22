@@ -4,5 +4,6 @@
 3. controlled element: one object in a state contains all the input fields
 4. uncontrolled element: useRef to create a reference to the element and access value by using 
     like: nameRef.current.value
-5. 
+5. use hook to handle all example, react hook form\
+6. reusable react components
 */
